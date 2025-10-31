@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "title": "Mathematics II",
+    "subtitle": "Cheat Sheet • Fourier Series • 10 Oct 2025 • All Branches",
+    "author": "Harshit Dua",
+    "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=300&fit=crop",
+    "tag": "#trending 1",
+    "drive_link": "https://drive.google.com/file/d/FILE_ID_MATHII/view?usp=sharing",
+    "category": "trending"
+  },
+  {
+    "id": 2,
+    "title": "Robotics Dynamics",
+    "subtitle": "Notes • Projection",
+    "author": "Harshit Dua",
+    "image": "https://images.unsplash.com/photo-1535378620166-273708d44e4c?w=400&h=300&fit=crop",
+    "tag": "",
+    "drive_link": "https://drive.google.com/file/d/FILE_ID_ROBOTICS/view?usp=sharing",
+    "category": "trending"
+  },
+  {
+    "id": 3,
+    "title": "DBMS",
+    "subtitle": "Tutorial • Tut Sheet 1",
+    "author": "Pulkit Jhamb",
+    "image": "https://images.unsplash.com/photo-1639322537228-f710d846310a?w=400&h=300&fit=crop",
+    "tag": "",
+    "drive_link": "https://drive.google.com/file/d/FILE_ID_DBMS/view?usp=sharing",
+    "category": "trending"
+  },
+  {
+    "id": 4,
+    "title": "AI/ML",
+    "subtitle": "Notes • ANN",
+    "author": "Kartik Malik",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=300&fit=crop",
+    "tag": "",
+    "drive_link": "https://drive.google.com/file/d/FILE_ID_AIML/view?usp=sharing",
+    "category": "recent"
+  },
+  {
+    "id": 5,
+    "title": "Operating Systems",
+    "subtitle": "Tutorial • Process Scheduling",
+    "author": "Dr. Amit Verma",
+    "image": "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=400&h=300&fit=crop",
+    "tag": "",
+    "drive_link": "https://drive.google.com/file/d/FILE_ID_OS/view?usp=sharing",
+    "category": "recent",
+    "likes": 15,
+    "starred": true
+  },
+  {
+    "id": 6,
+    "title": "Data Structures",
+    "subtitle": "Notes • Trees and Graphs",
+    "author": "Prof. Sneha Patel",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=300&fit=crop",
+    "tag": "",
+    "drive_link": "https://drive.google.com/file/d/FILE_ID_DS/view?usp=sharing",
+    "category": "recent",
+    "likes": 23,
+    "starred": false
+  },
+  {
+    "id": 7,
+    "title": "Computer Networks",
+    "subtitle": "Assignment • TCP/IP Protocols",
+    "author": "Dr. Rajesh Kumar",
+    "image": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=400&h=300&fit=crop",
+    "tag": "",
+    "drive_link": "https://drive.google.com/file/d/FILE_ID_CN/view?usp=sharing",
+    "category": "recommended",
+    "likes": 8,
+    "starred": true
+  }
+]
